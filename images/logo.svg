@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 179.97 36.95">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: PyeongChangPeace-Light, 'PyeongChang Peace';
+        font-size: 24.6px;
+        font-weight: 300;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #d499b9;
+      }
+
+      .cls-4, .cls-5 {
+        stroke-width: 1.23px;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-4, .cls-6 {
+        stroke: #d499b9;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        stroke: #9055a2;
+      }
+
+      .cls-6 {
+        stroke-width: 1.25px;
+      }
+
+      .cls-3 {
+        font-family: PyeongChangPeace-Bold, 'PyeongChang Peace';
+        font-size: 4.91px;
+        font-weight: 700;
+      }
+
+      .cls-8 {
+        fill: #9055a2;
+      }
+
+      .cls-9 {
+        fill: #2e294e;
+      }
+    </style>
+  </defs>
+  <g id="_레이어_1-2" data-name="레이어 1">
+    <g>
+      <text class="cls-1" transform="translate(57.76 27.87)"><tspan class="cls-8" x="0" y="0">향기</tspan><tspan class="cls-9" x="45.75" y="0">마법사</tspan></text>
+      <g>
+        <path class="cls-4" d="m45.13,27.35s.92-1.43,2.43,0"/>
+        <path class="cls-4" d="m30.2,29.58c.5.26.97.6,1.4.97l2.36,2.1"/>
+        <path class="cls-4" d="m33.96,32.65c4.8,3.68,7.23.17,11.17-5.3"/>
+        <path class="cls-4" d="m4.01,25.18c4.45-3.47,6.59,10.81,12.85,7.42"/>
+        <g>
+          <path class="cls-5" d="m22.79,13.13c.01.54-2.71.51-2.78,3.69-.09,4.12-5.56,3.58-5.56,3.58l2.69,5.19s3.59-.56,4.89-1.89"/>
+          <path class="cls-5" d="m18.09,25.4s1.13,4.56,3.84,4.13"/>
+          <path class="cls-5" d="m21.34,18.1s1.62,2.5,5.14.96"/>
+          <path class="cls-5" d="m33.14,18.55l-.25,2.91s3.12-1.39,2.86,2.54-4.72,2.97-5.43,2.38"/>
+        </g>
+        <g>
+          <path class="cls-5" d="m21.43,12.6c.39-.35-7.73-.59-5.07,2.56,2.62,3.1,3.08-2.07,2.39-1.27"/>
+          <path class="cls-5" d="m25.2,13.99s-4,.33-2.29,2.56"/>
+          <path class="cls-5" d="m26.93,14.94s-3.28.78-.89,2.65"/>
+          <path class="cls-5" d="m29.64,16.39s-3.08.09-.38,3.16"/>
+          <path class="cls-5" d="m38.39,20.73c.22-.18-2.12,1.36.55,3.74"/>
+        </g>
+        <g>
+          <path class="cls-5" d="m14.15,6.36c-.43-.31,4.9,4.29,12.41,8.38.29.16.58.32.87.47,8.21,4.43,17.13,8.78,18.85,7.72,0,0-1.3-1.34-2.94-3.14-3-3.3-7.49-8.63-6.4-9.06,1.36-.53,3.33-1.78,4.12-4.58.21-.75,1.28-.96,2.09-1.15l6.5-1.52-10.02-2.78c-.55-.15-1.16-.1-2,.3l-9.64,4.57c-.62.29-1.68.5-.94,2.16l-12.91-1.36Z"/>
+          <polyline class="cls-5" points="27.75 9.92 34.77 14.25 30.98 6.48 36.69 6.78"/>
+        </g>
+        <g>
+          <ellipse class="cls-5" cx="4.63" cy="19.17" rx="4.31" ry="3.65" transform="translate(-11.91 8.43) rotate(-43.43)"/>
+          <polygon class="cls-5" points="8.51 13.27 7.48 15.18 6.05 14.6 7.07 12.69 8.51 13.27"/>
+        </g>
+        <path class="cls-2" d="m10.61,15.6c.7,0,.7-1.08,0-1.08s-.7,1.08,0,1.08h0Z"/>
+        <path class="cls-2" d="m12.19,16.55c.7,0,.7-1.08,0-1.08s-.7,1.08,0,1.08h0Z"/>
+        <path class="cls-2" d="m13.93,17.53c.7,0,.7-1.08,0-1.08s-.7,1.08,0,1.08h0Z"/>
+        <path class="cls-2" d="m11.21,13.12c.7,0,.7-1.08,0-1.08s-.7,1.08,0,1.08h0Z"/>
+        <path class="cls-2" d="m13.18,12.77c.7,0,.7-1.08,0-1.08s-.7,1.08,0,1.08h0Z"/>
+        <path class="cls-2" d="m15.22,12.5c.7,0,.7-1.08,0-1.08s-.7,1.08,0,1.08h0Z"/>
+        <path class="cls-2" d="m8.71,10.4c.7,0,.7-1.08,0-1.08s-.7,1.08,0,1.08h0Z"/>
+        <path class="cls-2" d="m9.84,8.88c.7,0,.7-1.08,0-1.08s-.7,1.08,0,1.08h0Z"/>
+        <path class="cls-2" d="m10.92,7.14c.7,0,.7-1.08,0-1.08s-.7,1.08,0,1.08h0Z"/>
+        <path class="cls-4" d="m16.86,32.6c4.65-2.51,7.43-6.11,13.34-3.02"/>
+      </g>
+      <g>
+        <line class="cls-6" x1="50.51" y1="6.57" x2="53.99" y2="6.57"/>
+        <line class="cls-6" x1="52.25" y1="8.31" x2="52.25" y2="4.83"/>
+      </g>
+      <g>
+        <line class="cls-6" x1="175.87" y1="28.37" x2="179.35" y2="28.37"/>
+        <line class="cls-6" x1="177.61" y1="30.11" x2="177.61" y2="26.62"/>
+      </g>
+      <path class="cls-8" d="m58.8,4.07c1.32,0,1.32-2.05,0-2.05s-1.32,2.05,0,2.05h0Z"/>
+      <path class="cls-8" d="m170.34,33.84c1.32,0,1.32-2.05,0-2.05s-1.32,2.05,0,2.05h0Z"/>
+      <text class="cls-3" transform="translate(97.02 35.16)"><tspan x="0" y="0">A</tspan><tspan class="cls-7" x="4.06" y="0">r</tspan><tspan x="6.18" y="0">oma Wiza</tspan><tspan class="cls-7" x="32.02" y="0">r</tspan><tspan x="34.15" y="0">d</tspan></text>
+    </g>
+  </g>
+</svg>

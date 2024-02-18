@@ -1,0 +1,23 @@
+@media (min-width: 900px) {
+    .m{display: none;}
+    .t{display: none;}
+    .p{display: block;}
+
+    .wrapper{
+        max-width: 900px;
+        margin: 0 auto;
+    }
+
+    header .wrap{
+        height: 80px;
+    }
+
+
+    .util .wrap{
+        position: relative;
+    }
+
+    .section3 .wrap{
+        padding-bottom: 50px;
+    }
+}
